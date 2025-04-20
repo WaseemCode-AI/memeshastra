@@ -28,4 +28,4 @@ if st.button("Generate Meme Caption 💥") and user_input:
 
 st.markdown("---")
 st.markdown("🔗 [Follow @waseem.diaries on Instagram](https://instagram.com/waseem.diaries) for more fun!")
-st.markdown("💡 Made with ❤️ by MemeShastra")
+st.markdown("💡 Made with ❤️ by Waseem Akram")
